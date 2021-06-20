@@ -1,0 +1,7 @@
+Referência Da Tarefa;Código;Descrição;Grau De Proficiência
+TP2;1;WEB_DESIGNER;SATISFATORIO
+TP2;2;Programar em Java;SATISFATORIO
+TP2;3;Programar em HTML;SATISFATORIO
+TP3;2;Programar em Java;SATISFATORIO
+TP3;3;Programar em HTML;SATISFATORIO
+TP3;4;Mestrado Em Engenharia De Software;SATISFATORIO

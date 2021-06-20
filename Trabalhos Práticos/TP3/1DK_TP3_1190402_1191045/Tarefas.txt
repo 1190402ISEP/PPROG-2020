@@ -1,0 +1,3 @@
+ REFERENCIA ; DESIGNACAO ; DESCRICAO INFORMAL ; DESCRICAO TECNICA ; DURACAO ; CUSTO
+ TP2        ; Trabalho 2 ; Este trabalho      ; Trabalha          ; 44      ; 6
+ TP3        ; Trabalho 3 ; Outro trabalho     ; Trabalha mais     ; 54      ; 4

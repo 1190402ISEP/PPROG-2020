@@ -1,0 +1,4 @@
+ NOME    ; NIF ; TELEFONE ; EMAIL
+ Rui     ; 1404; 960000000; rui@gmail.com
+ Antonio ; 1222; 930000000; antonio@gmail.com
+ Diogo   ; 2305; 910000000; diogo@gmail.com

@@ -1,0 +1,13 @@
+NIF do Freelancer;Código;Descrição;Grau De Proficiência
+1404;1;WEB_DESIGNER;EXCELENTE
+1404;2;Programar em Java;EXCELENTE
+1404;3;Programar em HTML;EXCELENTE
+1404;4;Mestrado Em Engenharia De Software;SATISFATORIO
+1222;1;WEB_DESIGNER;EXCELENTE
+1222;2;Programar em Java;MUITO_SATISFATORIO
+1222;3;Programar em HTML;MUITO_SATISFATORIO
+1222;4;Mestrado Em Engenharia De Software;EXCELENTE
+2305;1;WEB_DESIGNER;EXCELENTE
+2305;2;Programar em Java;EXCELENTE
+2305;3;Programar em HTML;SATISFATORIO
+2305;4;Mestrado Em Engenharia De Software;EXCELENTE
